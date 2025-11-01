@@ -55,7 +55,7 @@
 
 - 🔗 [nikhilsainiop/saini-txt-direct](https://github.com/nikhilsainiop/saini-txt-direct)
 - 🔗 [cyberseller999/saini-txt-direct](https://github.com/cyberseller999/saini-txt-direct)
-     (https://github.com/1505-prinsu/Cplinkfinal) 
+- 🔗 [1505-prinsu/Cplinkfinal](https://github.com/1505-prinsu/Cplinkfinal) 
 
 ---
 
