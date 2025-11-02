@@ -1,24 +1,20 @@
 services:
   - type: web
-    name: saini-txt-direct
+    name: SAINI TXT DIRECT 
     plan: free
     env: docker
     dockerfilePath: Dockerfile
-    repo: https://github.com/1505-prinsu/Cplinkfinal
+    repo: https://github.com/1505-prinsu/powerful-saini-uploader
     branch: main
     autoDeploy: false
     envVars:
-      - key: 8557949406:AAGW3kwEH01FDPVjLNa1hSkx-F1jyjqC-ig
+      - key: BOT_TOKEN
         sync: false
-      - key: 27433400
+      - key: API_ID
         sync: false
-      - key: 1a286620de5ffe0a7d9b57e604293555
-        sync: false
-      - key: 6201066540
-        sync: false
-      - key: Apnilife_1505_bot
+      - key: API_HASH
         sync: false
       #- key: WEBHOOK
-        #sync: True
+        #sync: false
       - key: PORT
         value: 8000  # Default port value, update if needed
