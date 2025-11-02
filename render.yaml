@@ -8,17 +8,17 @@ services:
     branch: main
     autoDeploy: false
     envVars:
-      - key: BOT_TOKEN
+      - key: 8557949406:AAGW3kwEH01FDPVjLNa1hSkx-F1jyjqC-ig
         sync: false
-      - key: API_ID
+      - key: 27433400
         sync: false
-      - key: API_HASH
+      - key: 1a286620de5ffe0a7d9b57e604293555
         sync: false
-      - key: OWNER
+      - key: 6201066540
         sync: false
-      - key: CREDIT
+      - key: Apnilife_1505_bot
         sync: false
       #- key: WEBHOOK
-        #sync: false
+        #sync: True
       - key: PORT
         value: 8000  # Default port value, update if needed
